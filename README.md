@@ -1,2 +1,2 @@
 # yolo
-Your Open Liven Overlay - for 3d printing
+Your Open Liven Overlay - for multicolor 3d printing
