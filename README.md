@@ -3,5 +3,5 @@ Your Open Liven Overlay - for multicolor 3d printing
 
 For now I just created the Xfm overlay, since that's the synth I own. Feel free to modify and add other models :)
 
-![YourOpenLivenOverlay screenshot](https://github.com/Cysign/yolo/blob/main/yolo-XFM-screenshot.jpg)
+![YourOpenLivenOverlay screenshot](https://github.com/Cysign/yolo/blob/main/YOLO%20-%20YourOpenLivenOverlay%20-%20Xfm.jpg)
 
